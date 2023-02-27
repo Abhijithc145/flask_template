@@ -1,0 +1,2 @@
+export FLASK_APP=blog.py 
+flask run / python3 <--file_name-->
